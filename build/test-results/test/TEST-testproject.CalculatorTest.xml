@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testproject.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-09T10:15:45" hostname="PC210-12" time="0.003">
+<testsuite name="testproject.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-09T10:40:41" hostname="PC210-12" time="0.003">
   <properties/>
   <testcase name="testSum" classname="testproject.CalculatorTest" time="0.003"/>
   <testcase name="testSubtract" classname="testproject.CalculatorTest" time="0.0"/>
